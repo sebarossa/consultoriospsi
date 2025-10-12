@@ -1,8 +1,8 @@
 ---
-title: "Customer Reviews"
+title: "Testimonios de Profesionales"
 subtitle: "Reviews"
 meta_title: "Reviews"
-description: "We encourage our team to fearlessly challenge conventions and pioneer new paths."
+description: "Conocé la experiencia de profesionales que ya confían en nuestros espacios."
 image: "/images/contact.png"
 
 testimonials:
@@ -15,7 +15,7 @@ testimonials:
   - name: "Lic. Carolina Méndez"
     designation: "Terapeuta Cognitiva"
     avatar: "/images/reviews/1.png"
-    content: "giExcelente opción para profesionales que arrancan. El sistema de alquiler por horas me permite optimizar mis horarios sin compromisos fijos. Todo está habilitado y en orden, lo cual me da mucha tranquilidad. La atención siempre fue muy buena."
+    content: "Excelente opción para profesionales que arrancan. El sistema de alquiler por horas me permite optimizar mis horarios sin compromisos fijos. Todo está habilitado y en orden, lo cual me da mucha tranquilidad. La atención siempre fue muy buena."
     featured: true
 
   - name: "Lic. Pablo Sánchez"
@@ -24,27 +24,5 @@ testimonials:
     content: "Llevo un año alquilando y no tengo quejas. Flexibilidad total para reservar, espacios limpios y profesionales. La relación calidad-precio es muy buena. Ideal para quienes necesitamos un lugar serio sin invertir en un consultorio propio."
     featured: true
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: ""
-    content: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
-    featured: false
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: ""
-    content: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
-    featured: false
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: ""
-    content: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
-    featured: false
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: ""
-    content: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
-    featured: false
 ---
