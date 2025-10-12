@@ -6,22 +6,22 @@ description: "We encourage our team to fearlessly challenge conventions and pion
 image: "/images/contact.png"
 
 testimonials:
-  - name: "William Elijah Jr."
-    designation: "Managing Director"
+  - name: "Lic. María Fernández"
+    designation: "Psicóloga Clínica"
     avatar: "/images/reviews/1.png"
-    content: "We specialize in transforming visions into reality. Explore our portfolio of innovative architectural and interior design projects crafted with precision."
+    content: "Alquilo consultorio hace 6 meses y estoy muy conforme. Los espacios están impecables, bien iluminados y con excelente privacidad acústica. La ubicación en Belgrano es perfecta para mis pacientes. Súper recomendable para colegas que buscan un lugar profesional."
     featured: true
 
-  - name: "Lucas Benjamin"
-    designation: "Managing Director"
+  - name: "Lic. Carolina Méndez"
+    designation: "Terapeuta Cognitiva"
     avatar: "/images/reviews/1.png"
-    content: "Thanks to Nextspace, my home has been transformed into a sanctuary that reflects my personality and lifestyle."
+    content: "giExcelente opción para profesionales que arrancan. El sistema de alquiler por horas me permite optimizar mis horarios sin compromisos fijos. Todo está habilitado y en orden, lo cual me da mucha tranquilidad. La atención siempre fue muy buena."
     featured: true
 
-  - name: "Marvin McKinney"
-    designation: "Happy Homeowner"
+  - name: "Lic. Pablo Sánchez"
+    designation: "Psicólogo Organizacional"
     avatar: "/images/reviews/1.png"
-    content: "I had the pleasure of working with Nextspace on a complete renovation of my home, and I couldn't be happier with the results."
+    content: "Llevo un año alquilando y no tengo quejas. Flexibilidad total para reservar, espacios limpios y profesionales. La relación calidad-precio es muy buena. Ideal para quienes necesitamos un lugar serio sin invertir en un consultorio propio."
     featured: true
 
   - name: "Marvin McKinney"

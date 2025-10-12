@@ -89,7 +89,7 @@ services_facts:
   title: "PROCESO"
   subtitle: "Cómo Alquilar tu Consultorio"
   metrics:
-    - name: "Consulta Inicial"
+    - name: "Consulta Inicial."
       description: "Contactanos por WhatsApp para conocer disponibilidad y tarifas. Te asesoramos sobre el espacio ideal para vos."
     - name: "Visita al Lugar"
       description: "Coordinamos una visita para que conozcas los consultorios en persona y elijas el que mejor se adapte a tus necesidades."
