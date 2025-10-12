@@ -1,12 +1,10 @@
 ---
-title: "Let’s Connect with us 22!"
-meta_title: "Contact"
-description: "We believe in collaboration and value your input throughout the
-  design process. We encourage clients to actively participate in
-  discussions, share their ideas, preferences, and feedback."
+title: "¡Contactanos!"
+meta_title: "Contacto"
+description: "Estamos para ayudarte a encontrar el consultorio ideal para tu práctica profesional. Dejanos tus datos y te contactamos a la brevedad para coordinar una visita."
 
 address_section:
-  title: "Interested in working with us!"
-  description: "We encourage our team to fearlessly challenge conventions and pioneer new paths."
+  title: "¿Querés conocer nuestros consultorios?"
+  description: "Coordinamos una visita sin compromiso para que conozcas los espacios y resolvamos todas tus dudas sobre disponibilidad, tarifas y requisitos."
 draft: false
 ---
