@@ -1,0 +1,100 @@
+{
+  "main": [
+    {
+      "name": "Todas las Páginas",
+      "url": "",
+      "hasMegamenu": true,
+      "image": "/images/menu.png",
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Inicio",
+              "url": "/"
+            },
+            {
+              "name": "Sobre Nosotros",
+              "url": "/about"
+            },
+            {
+              "name": "Nuestros Espacios",
+              "url": "/gallery"
+            },
+            {
+              "name": "Blog",
+              "url": "/blog"
+            },
+            {
+              "name": "Preguntas Frecuentes",
+              "url": "/faqs"
+            },
+            {
+              "name": "Contacto",
+              "url": "/contact"
+            },
+            {
+              "name": "Términos y Condiciones",
+              "url": "/terms-and-conditions"
+            },
+            {
+              "name": "Política de Privacidad",
+              "url": "/privacy-policy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consultorios",
+      "url": "/projects"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    }
+  ],
+  "footer": [
+    {
+      "title": "Enlaces Rápidos",
+      "children": [
+        {
+          "name": "Nuestros Espacios",
+          "url": "/gallery"
+        },
+        {
+          "name": "Sobre Nosotros",
+          "url": "/about"
+        },
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "Preguntas Frecuentes",
+          "url": "/faqs"
+        },
+        {
+          "name": "Contacto",
+          "url": "/contact"
+        }
+      ]
+    },
+    {
+      "title": "Información Legal",
+      "children": [
+        {
+          "name": "Política de Privacidad",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Términos y Condiciones",
+          "url": "/terms-and-conditions"
+        },
+        {
+          "name": "Contacto",
+          "url": "/contact"
+        }
+      ]
+    }
+  ]
+}

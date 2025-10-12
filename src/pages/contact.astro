@@ -1,0 +1,149 @@
+---
+import Button from "@/components/Button.astro";
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import CallToAction from "@/partials/CallToAction.astro";
+import PageHeader from "@/partials/PageHeader.astro";
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+
+const contact = (await getEntry(
+  "contact",
+  "-index"
+)) as CollectionEntry<"contact">;
+const { contact_form_action }: { contact_form_action: string } = config.params;
+const { title, description, meta_title, image, address_section } = contact.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <PageHeader title={title} />
+  <section
+    class="-mt-[45%] sm:-mt-[30%] md:-mt-[25%] lg:-mt-[40%] xl:-mt-[30%] 2xl:-mt-[23%]"
+  >
+    <div class="container">
+      <div
+        class="flex flex-col lg:flex-row gap-20 justify-center lg:justify-between"
+      >
+        <div class="lg:w-[52%]">
+          <form
+            data-aos="fade-right-sm"
+            data-aos-delay="150"
+            class="bg-primary px-12 py-14"
+            action={contact_form_action}
+            method="POST"
+          >
+            <h2 class="text-white mb-4" set:html={markdownify(title)} />
+            {
+              description && (
+                <p
+                  class="text-text-light/80 mb-16"
+                  set:html={markdownify(description)}
+                />
+              )
+            }
+
+            <div class="mb-6">
+              <label for="name" class="form-label">
+                Nombre Completo <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="name"
+                name="name"
+                class="form-input"
+                placeholder="Ej: Lic. Juan Pérez"
+                type="text"
+              />
+            </div>
+            <div class="mb-6">
+              <label for="email" class="form-label">
+                Email <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="email"
+                name="email"
+                class="form-input"
+                placeholder="ejemplo@email.com"
+                type="email"
+              />
+            </div>
+            <div class="mb-6">
+              <label for="subject" class="form-label">
+                Asunto de Consulta <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="subject"
+                name="subject"
+                class="form-input"
+                placeholder="Consulta por alquiler de consultorio"
+                type="text"
+              />
+            </div>
+            <div class="mb-6">
+              <label for="message" class="form-label">
+                Mensaje <span class="text-red-500">*</span>
+              </label>
+              <textarea
+                id="message"
+                name="message"
+                class="form-input"
+                placeholder="Cuéntanos sobre tus necesidades: horarios preferidos, duración del alquiler, etc..."
+                rows="3"></textarea>
+            </div>
+            <Button
+              enable
+              label="Enviar Consulta"
+              type="submit"
+              style="btn-outline"
+            />
+          </form>
+        </div>
+
+        <div class="lg:w-[40%] self-center lg:self-end pb-14">
+          <h3
+            data-aos="fade-up-sm"
+            data-aos-delay="150"
+            class="h4 mb-4"
+            set:html={markdownify(address_section.title)}
+          />
+          <p
+            data-aos="fade-up-sm"
+            data-aos-delay="200"
+            class="text-balance"
+            set:html={markdownify(address_section.description)}
+          />
+
+          <div class="mt-12 space-y-8">
+            <div data-aos="fade-up-sm" data-aos-delay="250">
+              <h4 class="h6 mb-3">Email de Contacto</h4>
+              <a href="mailto:consultoriopsicobelgrano@gmail.com">consultoriopsicobelgrano@gmail.com</a>
+            </div>
+            
+            <div data-aos="fade-up-sm" data-aos-delay="300">
+              <h4 class="h6 mb-3">WhatsApp</h4>
+              <a href="https://wa.me/5491130665291?text=Hola,%20consulto%20por%20el%20alquiler%20de%20consultorios%20en%20Belgrano.%20Me%20gustar%C3%ADa%20conocer%20disponibilidad%20y%20tarifas.">Consultar por WhatsApp</a>
+            </div>
+            
+            <div data-aos="fade-up-sm" data-aos-delay="350">
+              <h4 class="h6 mb-3">Dirección</h4>
+              <a
+                target="_blank"
+                href="https://www.google.com/maps?q=Quesada+2480+C1429COL+Ciudad+Autónoma+de+Buenos+Aires"
+              >
+                Quesada 2480<br>
+                C1429COL Belgrano<br>
+                Ciudad Autónoma de Buenos Aires
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <CallToAction isNoSectionTop={true} isNoSectionBottom={true} />
+</Base>

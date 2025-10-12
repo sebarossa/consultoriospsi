@@ -1,0 +1,42 @@
+{
+  "site": {
+    "title": "Consultorios Profesionales Belgrano - Alquiler por Horas",
+    "base_url": "https://nextspace-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_footer": "/images/logo-footer.svg",
+    "logo_width": "300",
+    "logo_height": "60",
+    "logo_text": "Consultorios Belgrano"
+  },
+  "settings": {
+    "pagination": 6
+  },
+  "params": {
+    "contact_form_action": "#",
+    "address": "Quesada 2480, C1429COL Belgrano, Ciudad Autónoma de Buenos Aires",
+    "footer_title": "¿Listo para Reservar tu Consultorio?",
+    "footer_content": "Espacios profesionales habilitados por el Ministerio de Salud CABA en el corazón de Belgrano."
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Contactar",
+    "link": "/contact"
+  },
+  "footer_button": {
+    "enable": true,
+    "label": "Consultar Disponibilidad",
+    "link": "/contact"
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+  "metadata": {
+    "meta_author": "Consultorios Belgrano",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Alquiler de consultorios para profesionales de la psicología en Belgrano, CABA. Espacios habilitados por el Ministerio de Salud. Reservá por horas."
+  }
+}
