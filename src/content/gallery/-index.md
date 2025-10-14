@@ -47,7 +47,7 @@ gallery_images:
   - design: "Ubicación"
     designer: "Frente del Edificio"
     image: "/images/gallery/10.png"
-  - design: "Accesibilidad"push
+  - design: "Accesibilidad"
     designer: "Rampa de Acceso"
     image: "/images/gallery/10.png"
 ---
