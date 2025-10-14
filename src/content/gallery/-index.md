@@ -10,7 +10,7 @@ gallery_images:
     image: "/images/gallery/1.png"
   - design: "Consultorio 1"
     designer: "Ventanal al Patio"
-    image: "/images/gallery/4.png"
+    image: "/images/gallery/5.png"
   - design: "Consultorio 1"
     designer: "Área de Trabajo"
     image: "/images/gallery/5.png"
