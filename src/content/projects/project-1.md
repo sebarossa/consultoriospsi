@@ -5,8 +5,8 @@ description: "Consultorio amplio y luminoso con vista al patio interno, ideal pa
 date: 2025-01-24T05:00:00Z
 image: "/images/projects/1.png"
 featured_in_homepage: true
-client_name: "Espacio Premium"
-project_type: "Consultorio Amplio"
+client_name: "Espacio amplio"
+project_type: "Consultorio principal"
 draft: false
 ---
 
