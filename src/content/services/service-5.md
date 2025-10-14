@@ -1,5 +1,5 @@
 ---
-title: "Ubicación Premium"
+title: "Ubicación privilegiada y de fácil acceso"
 meta_title: "Consultorios en Belgrano - Ubicación Estratégica"
 description: "Ubicación privilegiada en Belgrano con excelente accesibilidad en transporte público y habilitación oficial del Ministerio de Salud CABA."
 date: 2025-01-24T05:00:00Z
