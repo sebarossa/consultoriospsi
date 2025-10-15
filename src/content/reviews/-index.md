@@ -6,10 +6,10 @@ description: "Conocé la experiencia de profesionales que ya confían en nuestro
 image: "/images/contact.png"
 
 testimonials:
-  - name: "Lic. María Fernández"
-    designation: "Psicóloga Clínica"
+  - name: "Lic. Marianela Santillan"
+    designation: "Psicóloga"
     avatar: "/images/reviews/1.png"
-    content: "Alquilo consultorio hace 6 meses y estoy muy conforme. Los espacios están impecables, bien iluminados y con excelente privacidad acústica. La ubicación en Belgrano es perfecta para mis pacientes. Súper recomendable para colegas que buscan un lugar profesional."
+    content: "He trabajado en varios consultorios y en ninguno me sentí tan cómoda como aquí. El espacio es amplio, cálido, luminoso y silencioso y esta muy bien equipado tanto para la atención presencial como virtual. Además por su ubicación resulta de muy fácil acceso para los consultantes. Todo eso lo convierte en un espacio ideal para ejercer de forma amena la profesión."
     featured: true
 
   - name: "Lic. Carolina Méndez"
