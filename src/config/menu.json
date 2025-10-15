@@ -37,7 +37,7 @@
               "url": "/about"
             },
             {
-              "name": "Nuestros Espacios",
+              "name": "Galeria de fotos",
               "url": "/gallery"
             }
           ]
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "Consultorios",
+      "name": "Espacios",
       "url": "/projects"
     },
     {
@@ -58,11 +58,11 @@
       "title": "Enlaces Rápidos",
       "children": [
         {
-          "name": "Nuestros Espacios",
+          "name": "Galeria de fotos",
           "url": "/gallery"
         },
         {
-          "name": "Sobre Nosotros",
+          "name": "Nuestra historia",
           "url": "/about"
         },
         {
@@ -87,7 +87,7 @@
           "url": "/privacy-policy"
         },
         {
-          "name": "Términos y Condiciones",
+          "name": "Condiciones de Alquiler",
           "url": "/terms-and-conditions"
         },
         {
