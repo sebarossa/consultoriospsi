@@ -15,7 +15,7 @@ gallery:
   enable: true
   title: Consultorios en Alquiler.
   subtitle: SOBRE NOSOTROS
-  description: Ofrecemos tres consultorios completamente equipados y habilitados oficialmente para profesionales de la psicología. Ubicados estratégicamente en Belgrano, brindan el ambiente profesional ideal para tu práctica.
+  description: Ofrecemos tres consultorios completamente equipados y habilitados oficialmente para profesionales de la salud mental. Ubicados estratégicamente en Belgrano, brindan el ambiente profesional ideal para tu práctica.
   images:
     - "/images/gallery/1.png"
     - "/images/gallery/2.png"

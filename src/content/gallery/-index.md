@@ -1,5 +1,5 @@
 ---
-title: "Galería de Espacios"
+title: "Galería de fotos"
 meta_title: "Galería - Consultorios Profesionales Belgrano"
 description: "Conocé nuestros consultorios y instalaciones en Belgrano. Espacios profesionales habilitados para la práctica de la psicología."
 image: "/images/gallery/1.png"

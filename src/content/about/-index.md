@@ -1,7 +1,7 @@
 ---
 title: "Nuestra Historia"
 meta_title: "Sobre Nosotros"
-description: "Ofrecemos consultorios profesionales habilitados por el Ministerio de Salud CABA en Belgrano. Espacios diseñados especialmente para la práctica de la psicología."
+description: "Ofrecemos consultorios profesionales habilitados por el Ministerio de Salud CABA en Belgrano. Espacios diseñados especialmente para la práctica de salud mental."
 image: "/images/about/1.png"
 images_gallery:
   - "/images/about/1.png"
