@@ -3,7 +3,7 @@ title: "5 razones por las que alquilar un consultorio es mejor que atender en ca
 meta_title: "Alquiler de Consultorio vs Atender en Casa: Guía para Psicólogos"
 description: "Descubrí por qué alquilar un consultorio profesional transforma tu práctica. Análisis completo de beneficios, costos y impacto en pacientes."
 date: 2025-07-04T05:00:00Z
-image: "/images/blog/2.png"
+image: "/images/blog/alquiler-consultorio-psicologia.png"
 categories: ["Home"]
 featured: true
 draft: false

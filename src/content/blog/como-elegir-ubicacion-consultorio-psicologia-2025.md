@@ -3,7 +3,7 @@ title: "Cómo elegir la ubicación perfecta para tu consultorio de psicología e
 meta_title: "Ubicación Consultorio Psicología: Guía Completa Belgrano vs CABA"
 description: "Descubrí los factores clave para elegir la ubicación ideal de tu consultorio. Análisis completo de Belgrano vs otros barrios de Buenos Aires."
 date: 2025-08-26T10:00:00Z
-image: "/images/blog/3.png"
+image: "/images/blog/ubicacion-consultorio-psicologia.png"
 categories: ["Home"]
 featured: true
 draft: false

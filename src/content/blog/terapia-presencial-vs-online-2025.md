@@ -3,7 +3,7 @@ title: "¿Por qué la terapia presencial sigue siendo irremplazable en 2025?"
 meta_title: "Terapia Presencial vs Virtual: Beneficios de la Consulta en Consultorio"
 description: "Descubrí las ventajas únicas de la terapia presencial que la tecnología no puede reemplazar. Guía completa para psicólogos y pacientes en Buenos Aires."
 date: 2025-06-04T05:00:00Z
-image: "/images/blog/1.png"
+image: "/images/blog/terapia-presencial-2025.png"
 categories: ["Home"]
 featured: true
 draft: false
