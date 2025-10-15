@@ -12,10 +12,10 @@ testimonials:
     content: "He trabajado en varios consultorios y en ninguno me sentí tan cómoda como aquí. El espacio es amplio, cálido, luminoso y silencioso y esta muy bien equipado tanto para la atención presencial como virtual. Además por su ubicación resulta de muy fácil acceso para los consultantes. Todo eso lo convierte en un espacio ideal para ejercer de forma amena la profesión."
     featured: true
 
-  - name: "Lic. Carolina Méndez"
-    designation: "Terapeuta Cognitiva"
+  - name: "Lic. Agustina Medrano"
+    designation: "Psicóloga"
     avatar: "/images/reviews/1.png"
-    content: "Excelente opción para profesionales que arrancan. El sistema de alquiler por horas me permite optimizar mis horarios sin compromisos fijos. Todo está habilitado y en orden, lo cual me da mucha tranquilidad. La atención siempre fue muy buena."
+    content: "Hace 4 meses que estoy trabajando en el consultorio 2 y estoy más que cómoda. Alquilé en por lo menos 5 lugares, 3 de ellos en Belgrano y en todo sentido este espacio es superador, accesible para pacientes, confortable, lindo. Cualquier inconveniente o sugerencia es tomada y resuelta a la brevedad. Lo recomiendo mucho!"
     featured: true
 
   - name: "Lic. Pablo Sánchez"
