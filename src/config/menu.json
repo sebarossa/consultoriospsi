@@ -9,20 +9,20 @@
         {
           "children": [
             {
-              "name": "Inicio",
-              "url": "/"
+              "name": "Consultorio 1",
+              "url": "/projects/project-1"
             },
             {
-              "name": "Sobre Nosotros",
-              "url": "/about"
+              "name": "Consultorio 2",
+              "url": "/projects/project-2"
             },
             {
-              "name": "Nuestros Espacios",
-              "url": "/gallery"
+              "name": "Consultorio 3",
+              "url": "/projects/project-3"
             },
             {
-              "name": "Blog",
-              "url": "/blog"
+              "name": "Condiciones de Alquiler",
+              "url": "/terms-and-conditions"
             },
             {
               "name": "Preguntas Frecuentes",
@@ -33,12 +33,12 @@
               "url": "/contact"
             },
             {
-              "name": "Términos y Condiciones",
-              "url": "/terms-and-conditions"
+              "name": "Sobre nuestra historia",
+              "url": "/about"
             },
             {
-              "name": "Política de Privacidad",
-              "url": "/privacy-policy"
+              "name": "Nuestros Espacios",
+              "url": "/gallery"
             }
           ]
         }
