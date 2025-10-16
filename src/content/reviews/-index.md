@@ -21,7 +21,7 @@ testimonials:
   - name: "Lic. Daiana Piacenza"
     designation: "Psicóloga"
     avatar: "/images/reviews/1.png"
-    content: "Es muy lindo el espacio. Los consultorios son muy cómodos, acogedores y agradables. Al ser en planta baja, el acceso es simple y cómodo tanto para los profesionales como pacientes.  Después de haber recorrido varios consultorios estos los pacientes los refieren como los más lindos.  Por otro lado, podes aclimatar el consultorio según tus preferencias lo que los hace ideal para cualquier época del año.  El manejo de la agenda de la disponibilidad también está fácilmente gestionado lo que hace que todo sea más ágil. Siempre buena predisposición para cualquier cosa que pueda presentarse. Y los colegas con quienes se comparten contribuye a que sea una experiencia super agradable. Por todo esto los elijo."
+    content: "Es muy lindo el espacio. Los consultorios son muy cómodos, acogedores y agradables. Al ser en planta baja, el acceso es simple tanto para los profesionales como pacientes.  Los pacientes los refieren como los más lindos. El manejo de la agenda de la disponibilidad también está fácilmente gestionado lo que hace que todo sea más ágil. Siempre buena predisposición para cualquier cosa que pueda presentarse. Y los colegas contribuyen a que sea una experiencia super agradable. Por todo esto los elijo."
     featured: true
 
 
