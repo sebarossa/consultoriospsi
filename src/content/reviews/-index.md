@@ -24,5 +24,10 @@ testimonials:
     content: "Es muy lindo el espacio. Los consultorios son muy cómodos, acogedores y agradables. Al ser en planta baja, el acceso es simple tanto para los profesionales como pacientes.  Los pacientes los refieren como los más lindos. El manejo de la agenda de la disponibilidad también está fácilmente gestionado lo que hace que todo sea más ágil. Siempre buena predisposición para cualquier cosa que pueda presentarse. Y los colegas contribuyen a que sea una experiencia super agradable. Por todo esto los elijo."
     featured: true
 
+  - name: "Lic. Marina Vergara"
+    designation: "Psicóloga"
+    avatar: "/images/reviews/1.png"
+    content: "Los consultorios son sumamente agradables, muy cómodos, con un nivel de limpieza impecable y bien equipados (con acceso a wi-fi, aire acondicionado y calefacción).     La ubicación es excelente, muy accesible, ya que está a una cuadra de Cabildo y Congreso, en una zona muy linda de Núñez.Un espacio muy recomendable para la práctica profesional."
+    featured: true
 
 ---
