@@ -18,10 +18,10 @@ testimonials:
     content: "Hace 4 meses que estoy trabajando en el consultorio 2 y estoy más que cómoda. Alquilé en por lo menos 5 lugares, 3 de ellos en Belgrano y en todo sentido este espacio es superador, accesible para pacientes, confortable, lindo. Cualquier inconveniente o sugerencia es tomada y resuelta a la brevedad. Lo recomiendo mucho!"
     featured: true
 
-  - name: "Lic. Pablo Sánchez"
-    designation: "Psicólogo Organizacional"
+  - name: "Lic. Daiana Piacenza"
+    designation: "Psicóloga"
     avatar: "/images/reviews/1.png"
-    content: "Llevo un año alquilando y no tengo quejas. Flexibilidad total para reservar, espacios limpios y profesionales. La relación calidad-precio es muy buena. Ideal para quienes necesitamos un lugar serio sin invertir en un consultorio propio."
+    content: "Es muy lindo el espacio. Los consultorios son muy cómodos, acogedores y agradables. Al ser en planta baja, el acceso es simple y cómodo tanto para los profesionales como pacientes.  Después de haber recorrido varios consultorios estos los pacientes los refieren como los más lindos.  Por otro lado, podes aclimatar el consultorio según tus preferencias lo que los hace ideal para cualquier época del año.  El manejo de la agenda de la disponibilidad también está fácilmente gestionado lo que hace que todo sea más ágil. Siempre buena predisposición para cualquier cosa que pueda presentarse. Y los colegas con quienes se comparten contribuye a que sea una experiencia super agradable. Por todo esto los elijo."
     featured: true
 
 
