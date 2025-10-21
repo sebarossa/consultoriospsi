@@ -30,4 +30,9 @@ testimonials:
     content: "Los consultorios son sumamente agradables, muy cómodos, con un nivel de limpieza impecable y bien equipados (con acceso a wi-fi, aire acondicionado y calefacción).     La ubicación es excelente, muy accesible, ya que está a una cuadra de Cabildo y Congreso, en una zona muy linda de Núñez.Un espacio muy recomendable para la práctica profesional."
     featured: true
 
+  - name: "Lic Ayelen Guanziroli"
+    designation: "Psicóloga"
+    avatar: "/images/reviews/1.png"
+    content: "Los consultorios están muy bien ambientados, es un lugar cálido para trabajar con tranquilidad y la coordinadora del espacio siempre está atenta y dispuesta cuando es necesario."
+    featured: true
 ---
