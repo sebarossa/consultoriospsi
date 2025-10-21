@@ -35,4 +35,10 @@ testimonials:
     avatar: "/images/reviews/1.png"
     content: "Los consultorios están muy bien ambientados, es un lugar cálido para trabajar con tranquilidad y la coordinadora del espacio siempre está atenta y dispuesta cuando es necesario."
     featured: true
+
+  - name: "Lic. Catalina Dogliotti"
+    designation: "Psicóloga"
+    avatar: "/images/reviews/1.png"
+    content: "Los consultorios son muy lindos, limpios y cómodos. Están equipados con todo lo necesario para poder trabajar. Súper recomendables!"
+    featured: true
 ---
